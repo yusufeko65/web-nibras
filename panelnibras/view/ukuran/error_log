@@ -1,0 +1,9 @@
+[18-Sep-2018 21:21:17 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[12-Oct-2018 04:30:48 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[04-Jul-2019 15:12:49 Asia/Jakarta] PHP Notice:  Undefined variable: ukuran_urutan in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/ukuran/form.php on line 33
+[19-Jul-2019 06:57:54 Asia/Jakarta] PHP Notice:  Undefined variable: ukuran_urutan in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/ukuran/form.php on line 33
+[19-Jul-2019 06:58:05 Asia/Jakarta] PHP Notice:  Undefined variable: ukuran_urutan in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/ukuran/form.php on line 33
+[19-Jul-2019 06:58:38 Asia/Jakarta] PHP Notice:  Undefined variable: ukuran_urutan in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/ukuran/form.php on line 33
+[22-Oct-2019 09:26:23 Asia/Jakarta] PHP Notice:  Undefined variable: ukuran_urutan in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/ukuran/form.php on line 33
+[22-Oct-2019 09:26:38 Asia/Jakarta] PHP Notice:  Undefined variable: ukuran_urutan in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/ukuran/form.php on line 33
+[22-Nov-2019 16:29:36 Asia/Jakarta] PHP Notice:  Undefined variable: ukuran_urutan in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/ukuran/form.php on line 33

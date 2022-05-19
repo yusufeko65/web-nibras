@@ -1,0 +1,6 @@
+[18-Sep-2018 01:13:31 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[18-Sep-2018 21:18:07 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[24-Sep-2018 09:11:20 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[18-Oct-2018 12:04:02 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[22-Oct-2018 14:11:50 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[24-Oct-2018 02:06:12 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2

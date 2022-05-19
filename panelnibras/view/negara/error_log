@@ -1,0 +1,9 @@
+[23-Aug-2018 21:50:31 Asia/Jakarta] PHP Warning:  include(../../includes/paging.php): failed to open stream: No such file or directory in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/negara/index.php on line 7
+[23-Aug-2018 21:50:31 Asia/Jakarta] PHP Warning:  include(../../includes/paging.php): failed to open stream: No such file or directory in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/negara/index.php on line 7
+[23-Aug-2018 21:50:31 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../includes/paging.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/negara/index.php on line 7
+[23-Aug-2018 21:50:31 Asia/Jakarta] PHP Fatal error:  Class 'Paging' not found in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/negara/index.php on line 46
+[23-Aug-2018 21:51:23 Asia/Jakarta] PHP Warning:  include(../../includes/paging.php): failed to open stream: No such file or directory in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/negara/index.php on line 7
+[23-Aug-2018 21:51:23 Asia/Jakarta] PHP Warning:  include(../../includes/paging.php): failed to open stream: No such file or directory in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/negara/index.php on line 7
+[23-Aug-2018 21:51:23 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../includes/paging.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/negara/index.php on line 7
+[23-Aug-2018 21:51:23 Asia/Jakarta] PHP Fatal error:  Class 'Paging' not found in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/negara/index.php on line 46
+[18-Sep-2018 21:18:27 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2

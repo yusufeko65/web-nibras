@@ -1,0 +1,8 @@
+[24-Jul-2019 21:02:47 Asia/Jakarta] PHP Notice:  Undefined index: cust_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/customer-poin/form.php on line 20
+[24-Jul-2019 21:02:47 Asia/Jakarta] PHP Notice:  Undefined index: cust_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/customer-poin/form.php on line 25
+[24-Jul-2019 21:02:47 Asia/Jakarta] PHP Notice:  Undefined index: cg_nm in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/customer-poin/form.php on line 36
+[24-Jul-2019 21:02:47 Asia/Jakarta] PHP Notice:  Undefined index: cust_telp in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/customer-poin/form.php on line 41
+[20-Jan-2020 01:28:05 Asia/Jakarta] PHP Notice:  Undefined index: cust_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/customer-poin/form.php on line 20
+[20-Jan-2020 01:28:05 Asia/Jakarta] PHP Notice:  Undefined index: cust_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/customer-poin/form.php on line 25
+[20-Jan-2020 01:28:05 Asia/Jakarta] PHP Notice:  Undefined index: cg_nm in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/customer-poin/form.php on line 36
+[20-Jan-2020 01:28:05 Asia/Jakarta] PHP Notice:  Undefined index: cust_telp in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/customer-poin/form.php on line 41

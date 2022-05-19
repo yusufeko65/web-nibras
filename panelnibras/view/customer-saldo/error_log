@@ -1,0 +1,16 @@
+[08-Jun-2015 22:50:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method controllerCustomer::tampildatadeposito() in /home/goetnikc/public_html/controletnik/view/customer-deposito/index.php on line 82
+[08-Jun-2015 22:50:47 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 135
+[08-Jun-2015 22:50:47 Asia/Jakarta] PHP Fatal error:  Call to undefined method DataModelCustomer::totalResellerDeposito() in /home/goetnikc/public_html/controletnik/controller/controlCustomer.php on line 271
+[08-Jun-2015 22:51:10 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 135
+[08-Jun-2015 22:51:10 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelCustomer.php on line 233
+[08-Jun-2015 22:52:08 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 135
+[08-Jun-2015 22:52:08 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelCustomer.php on line 236
+[08-Jun-2015 22:53:34 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 135
+[08-Jun-2015 22:53:34 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelCustomer.php on line 236
+[08-Jun-2015 22:54:41 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 135
+[08-Jun-2015 22:54:41 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelCustomer.php on line 236
+[08-Jun-2015 23:01:46 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 135
+[08-Jun-2015 23:03:17 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 135
+[08-Jun-2015 23:03:47 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 135
+[11-Jun-2015 15:34:20 Asia/Jakarta] PHP Fatal error:  Call to a member function GetPaging() on a non-object in /home/goetnikc/public_html/controletnik/view/customer-deposito/form.php on line 100
+[11-Jun-2015 15:35:58 Asia/Jakarta] PHP Fatal error:  Call to a member function GetPaging() on a non-object in /home/goetnikc/public_html/controletnik/view/customer-deposito/form.php on line 100

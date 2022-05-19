@@ -1,0 +1,42 @@
+[20-Mar-2015 22:50:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[15-Jun-2015 14:02:49 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:51:36 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:51:36 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:54:45 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:54:45 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:15 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 05:56:30 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[02-Sep-2015 06:02:21 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelKategori.php on line 199
+[18-Sep-2018 21:18:17 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[01-Oct-2018 04:28:50 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[06-Oct-2018 19:50:56 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[08-Oct-2018 06:54:25 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[29-Mar-2019 11:17:39 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelKategori.php on line 284
+[18-Jun-2019 16:23:02 Asia/Jakarta] PHP Notice:  Undefined variable: dataukurans in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/kategori/form.php on line 44
+[18-Jun-2019 16:24:05 Asia/Jakarta] PHP Notice:  Undefined variable: dataukurans in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/kategori/form.php on line 44
+[18-Jun-2019 16:24:25 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelKategori.php on line 310
+[18-Jun-2019 16:24:49 Asia/Jakarta] PHP Notice:  Undefined variable: dataukurans in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/kategori/form.php on line 44
+[18-Jun-2019 16:26:34 Asia/Jakarta] PHP Notice:  Undefined variable: dataukurans in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/kategori/form.php on line 44
+[18-Jun-2019 16:27:58 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelKategori.php on line 310
+[18-Jun-2019 16:39:50 Asia/Jakarta] PHP Notice:  Undefined variable: dataukurans in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/kategori/form.php on line 44
+[18-Jun-2019 16:46:07 Asia/Jakarta] PHP Notice:  Undefined variable: dataukurans in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/kategori/form.php on line 44
+[19-Jul-2019 14:46:55 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelKategori.php on line 310
+[19-Jul-2019 14:49:18 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelKategori.php on line 310
+[26-Nov-2019 05:57:52 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelKategori.php on line 317
+[26-Nov-2019 05:57:52 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelKategori.php on line 317

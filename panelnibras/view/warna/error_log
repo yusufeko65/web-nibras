@@ -1,0 +1,6 @@
+[18-Sep-2018 21:18:57 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[22-Sep-2018 00:19:19 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelWarna.php on line 113
+[24-Sep-2018 09:16:13 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[18-Oct-2018 12:31:44 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[20-Jun-2019 15:13:25 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelWarna.php on line 113
+[30-Sep-2019 16:04:56 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelWarna.php on line 113

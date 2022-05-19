@@ -1,0 +1,192 @@
+{
+    "LicenseKey": [
+        "",
+        "string"
+    ],
+    "AdminLogin": [
+        "susanto",
+        "string"
+    ],
+    "AdminPassword": [
+        "$2y$07$MTU4ODQ2NDkzMy40MjM0MO3y9.s1NhVjhPl45ZA0wf5z4pbg/72wC",
+        "string"
+    ],
+    "AdminLanguage": [
+        "English",
+        "string"
+    ],
+    "DBType": [
+        "MySQL",
+        "spec",
+        "\\Aurora\\System\\Enums\\DbType"
+    ],
+    "DBPrefix": [
+        "wm40_",
+        "string"
+    ],
+    "DBHost": [
+        "localhost",
+        "string"
+    ],
+    "DBName": [
+        "webm421",
+        "string"
+    ],
+    "DBLogin": [
+        "webm421",
+        "string"
+    ],
+    "DBPassword": [
+        "9o6J2S]pm@",
+        "string"
+    ],
+    "UseSlaveConnection": [
+        false,
+        "bool"
+    ],
+    "DBSlaveHost": [
+        "127.0.0.1",
+        "string"
+    ],
+    "DBSlaveName": [
+        "",
+        "string"
+    ],
+    "DBSlaveLogin": [
+        "root",
+        "string"
+    ],
+    "DBSlavePassword": [
+        "",
+        "string"
+    ],
+    "DBUseExplain": [
+        false,
+        "bool"
+    ],
+    "DBUseExplainExtended": [
+        false,
+        "bool"
+    ],
+    "DBLogQueryParams": [
+        false,
+        "bool"
+    ],
+    "DBDebugBacktraceLimit": [
+        false,
+        "bool"
+    ],
+    "EnableLogging": [
+        false,
+        "bool"
+    ],
+    "EnableEventLogging": [
+        false,
+        "bool"
+    ],
+    "LoggingLevel": [
+        "Full",
+        "spec",
+        "\\Aurora\\System\\Enums\\LogLevel"
+    ],
+    "LogFileName": [
+        "log-{Y-m-d}.txt",
+        "string"
+    ],
+    "LogCustomFullPath": [
+        "",
+        "string"
+    ],
+    "LogPostView": [
+        false,
+        "bool"
+    ],
+    "EnableMultiChannel": [
+        false,
+        "bool"
+    ],
+    "EnableMultiTenant": [
+        false,
+        "bool"
+    ],
+    "TenantGlobalCapa": [
+        "",
+        "string"
+    ],
+    "AllowThumbnail": [
+        true,
+        "bool"
+    ],
+    "ThumbnailMaxFileSizeMb": [
+        5,
+        "int"
+    ],
+    "CacheCtrl": [
+        true,
+        "bool"
+    ],
+    "CacheLangs": [
+        true,
+        "bool"
+    ],
+    "CacheTemplates": [
+        true,
+        "bool"
+    ],
+    "DisplayServerErrorInformation": [
+        true,
+        "bool"
+    ],
+    "EnableImap4PlainAuth": [
+        false,
+        "bool"
+    ],
+    "RedirectToHttps": [
+        false,
+        "bool"
+    ],
+    "SocketConnectTimeoutSeconds": [
+        20,
+        "int"
+    ],
+    "SocketGetTimeoutSeconds": [
+        20,
+        "int"
+    ],
+    "SocketVerifySsl": [
+        false,
+        "bool"
+    ],
+    "UseAppMinJs": [
+        true,
+        "bool"
+    ],
+    "XFrameOptions": [
+        "",
+        "string"
+    ],
+    "RemoveOldLogs": [
+        true,
+        "bool"
+    ],
+    "LogStackTrace": [
+        false,
+        "bool"
+    ],
+    "ExpireUserSessionsBefore": [
+        0,
+        "int"
+    ],
+    "PasswordMinLength": [
+        0,
+        "int"
+    ],
+    "PasswordMustBeComplex": [
+        false,
+        "bool"
+    ],
+    "StoreAuthTokenInDB": [
+        false,
+        "bool"
+    ]
+}

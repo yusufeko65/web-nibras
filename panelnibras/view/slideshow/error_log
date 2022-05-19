@@ -1,0 +1,10 @@
+[18-Sep-2018 21:20:30 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[25-Sep-2018 00:18:12 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[19-Nov-2019 10:24:03 Asia/Jakarta] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/goetnik1/public_html/nibras.co.id/includes/FungsiUmum.php on line 392
+[19-Nov-2019 10:24:03 Asia/Jakarta] PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/goetnik1/public_html/nibras.co.id/includes/FungsiUmum.php on line 395
+[19-Nov-2019 10:24:03 Asia/Jakarta] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/goetnik1/public_html/nibras.co.id/includes/FungsiUmum.php on line 396
+[19-Nov-2019 10:24:03 Asia/Jakarta] PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/goetnik1/public_html/nibras.co.id/includes/FungsiUmum.php on line 397
+[19-Nov-2019 10:24:03 Asia/Jakarta] PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/goetnik1/public_html/nibras.co.id/includes/FungsiUmum.php on line 398
+[19-Nov-2019 10:24:03 Asia/Jakarta] PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/goetnik1/public_html/nibras.co.id/includes/FungsiUmum.php on line 403
+[19-Nov-2019 10:24:03 Asia/Jakarta] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/goetnik1/public_html/nibras.co.id/includes/FungsiUmum.php on line 405
+[19-Nov-2019 10:24:03 Asia/Jakarta] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/goetnik1/public_html/nibras.co.id/includes/FungsiUmum.php on line 425

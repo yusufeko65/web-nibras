@@ -1,0 +1,101 @@
+[08-Apr-2015 21:48:10 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 111
+[08-Apr-2015 21:48:43 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 111
+[08-Apr-2015 21:49:44 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 111
+[08-Apr-2015 22:13:56 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/includes/classUmum.php on line 111
+[04-Nov-2015 14:52:25 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 396
+[04-Nov-2015 14:52:25 Asia/Jakarta] PHP Warning:  Error while sending QUERY packet. PID=937378 in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 284
+[04-Nov-2015 14:52:25 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 285
+[04-Nov-2015 14:52:51 Asia/Jakarta] PHP Warning:  mysql_query(): No such file or directory in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 395
+[04-Nov-2015 14:52:51 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 395
+[04-Nov-2015 14:52:51 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 396
+[04-Nov-2015 14:52:51 Asia/Jakarta] PHP Warning:  mysql_query(): No such file or directory in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 284
+[04-Nov-2015 14:52:51 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 284
+[04-Nov-2015 14:52:51 Asia/Jakarta] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 285
+[04-Nov-2015 14:52:58 Asia/Jakarta] PHP Warning:  mysql_query(): No such file or directory in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 395
+[04-Nov-2015 14:52:58 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 395
+[04-Nov-2015 14:52:58 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 396
+[04-Nov-2015 14:52:58 Asia/Jakarta] PHP Warning:  mysql_query(): No such file or directory in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 273
+[04-Nov-2015 14:52:58 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 273
+[04-Nov-2015 14:53:06 Asia/Jakarta] PHP Warning:  mysql_query(): No such file or directory in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 395
+[04-Nov-2015 14:53:06 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 395
+[04-Nov-2015 14:53:06 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 396
+[04-Nov-2015 14:53:06 Asia/Jakarta] PHP Warning:  mysql_query(): No such file or directory in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 273
+[04-Nov-2015 14:53:06 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/goetnikc/public_html/controletnik/model/modelProduk.php on line 273
+[18-Sep-2018 01:15:45 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[22-Sep-2018 23:54:48 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[01-Oct-2018 05:36:06 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[03-Oct-2018 09:00:11 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[18-Oct-2018 07:47:10 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[18-Oct-2018 08:19:44 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[23-Oct-2018 04:11:48 Asia/Jakarta] PHP Notice:  Undefined index: alias_url in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 39
+[23-Oct-2018 04:11:48 Asia/Jakarta] PHP Notice:  Undefined index: berat_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 117
+[23-Oct-2018 04:11:48 Asia/Jakarta] PHP Notice:  Undefined index: hrg_jual in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 118
+[23-Oct-2018 04:11:48 Asia/Jakarta] PHP Notice:  Undefined index: status_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 121
+[23-Oct-2018 04:11:48 Asia/Jakarta] PHP Notice:  Undefined index: poin in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 123
+[23-Oct-2018 04:11:48 Asia/Jakarta] PHP Notice:  Undefined index: keterangan_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 133
+[23-Oct-2018 04:11:48 Asia/Jakarta] PHP Notice:  Undefined index: metatag_deskripsi in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 134
+[23-Oct-2018 04:11:48 Asia/Jakarta] PHP Notice:  Undefined index: metatag_keyword in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 135
+[29-Mar-2019 13:24:25 Asia/Jakarta] PHP Notice:  Undefined index: gbr_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 796
+[09-Apr-2019 09:22:49 Asia/Jakarta] PHP Notice:  Undefined index: alias_url in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 39
+[09-Apr-2019 09:22:49 Asia/Jakarta] PHP Notice:  Undefined index: berat_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 117
+[09-Apr-2019 09:22:49 Asia/Jakarta] PHP Notice:  Undefined index: hrg_jual in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 118
+[09-Apr-2019 09:22:49 Asia/Jakarta] PHP Notice:  Undefined index: status_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 121
+[09-Apr-2019 09:22:49 Asia/Jakarta] PHP Notice:  Undefined index: poin in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 123
+[09-Apr-2019 09:22:49 Asia/Jakarta] PHP Notice:  Undefined index: keterangan_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 133
+[09-Apr-2019 09:22:49 Asia/Jakarta] PHP Notice:  Undefined index: metatag_deskripsi in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 134
+[09-Apr-2019 09:22:49 Asia/Jakarta] PHP Notice:  Undefined index: metatag_keyword in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 135
+[25-Apr-2019 19:16:44 Asia/Jakarta] PHP Notice:  Undefined index: gbr_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 796
+[16-Jun-2019 16:31:38 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 802
+[27-Jun-2019 13:02:53 Asia/Jakarta] PHP Notice:  Undefined index: gbr_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 796
+[01-Jul-2019 15:27:48 Asia/Jakarta] PHP Notice:  Undefined index: gbr_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 796
+[10-Jul-2019 11:28:40 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 802
+[10-Jul-2019 11:29:25 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 802
+[06-Aug-2019 05:19:35 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 802
+[29-Aug-2019 09:41:05 Asia/Jakarta] PHP Notice:  Undefined index: gbr_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 796
+[30-Aug-2019 13:03:37 Asia/Jakarta] PHP Notice:  Undefined index: gbr_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 796
+[25-Nov-2019 06:00:38 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 802
+[08-Dec-2019 00:05:20 Asia/Jakarta] PHP Notice:  Undefined index: gbr_produk in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 796
+[17-Dec-2019 21:39:22 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 802
+[21-Dec-2019 16:44:20 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 704
+[21-Dec-2019 16:44:20 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 704
+[21-Dec-2019 16:45:01 Asia/Jakarta] PHP Notice:  Trying to get property of non-object in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 704
+[21-Dec-2019 16:45:01 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/goetnik1/public_html/nibras.co.id/panelnibras/model/modelProduk.php on line 704
+[03-Jan-2020 14:30:12 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 863
+[03-Jan-2020 14:30:12 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 864
+[03-Jan-2020 14:30:12 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 864
+[03-Jan-2020 22:27:13 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 863
+[03-Jan-2020 22:27:13 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 864
+[03-Jan-2020 22:27:13 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 864
+[03-Jan-2020 22:28:51 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 863
+[03-Jan-2020 22:28:51 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 864
+[03-Jan-2020 22:28:51 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 864
+[05-Jan-2020 14:35:54 Asia/Jakarta] PHP Notice:  Undefined index: pid in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/produk/index.php on line 139
+[06-Jan-2020 04:40:02 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 802
+[06-Jan-2020 04:40:23 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 802
+[06-Jan-2020 09:09:09 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 802
+[18-Jan-2020 17:01:40 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 842
+[18-Jan-2020 17:01:40 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[18-Jan-2020 17:01:40 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[06-Feb-2020 09:28:18 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 842
+[06-Feb-2020 09:28:18 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[06-Feb-2020 09:28:18 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[08-Feb-2020 10:13:23 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 842
+[08-Feb-2020 10:13:23 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[08-Feb-2020 10:13:23 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[25-Feb-2020 08:42:55 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 842
+[25-Feb-2020 08:42:55 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[25-Feb-2020 08:42:55 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[20-Mar-2020 12:13:25 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 842
+[20-Mar-2020 12:13:25 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[20-Mar-2020 12:13:25 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[20-Mar-2020 12:18:20 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 842
+[20-Mar-2020 12:18:20 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[20-Mar-2020 12:18:20 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[20-Mar-2020 12:20:36 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 842
+[20-Mar-2020 12:20:36 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[20-Mar-2020 12:20:36 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[20-Mar-2020 15:06:53 Asia/Jakarta] PHP Notice:  Undefined index: category_id in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 842
+[20-Mar-2020 15:06:53 Asia/Jakarta] PHP Notice:  Undefined index: path in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[20-Mar-2020 15:06:53 Asia/Jakarta] PHP Notice:  Undefined index: name in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 843
+[24-Mar-2020 14:14:05 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 780
+[24-Mar-2020 14:14:44 Asia/Jakarta] PHP Notice:  Undefined index: produk_nama in /home/goetnik1/public_html/nibras.co.id/panelnibras/controller/controllerProduk.php on line 780

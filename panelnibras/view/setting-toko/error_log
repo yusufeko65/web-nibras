@@ -1,0 +1,51 @@
+[23-Aug-2018 21:51:14 Asia/Jakarta] PHP Warning:  include(../../includes/paging.php): failed to open stream: No such file or directory in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/setting-toko/index.php on line 7
+[23-Aug-2018 21:51:14 Asia/Jakarta] PHP Warning:  include(../../includes/paging.php): failed to open stream: No such file or directory in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/setting-toko/index.php on line 7
+[23-Aug-2018 21:51:14 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../includes/paging.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/goetnik1/public_html/nibras.co.id/panelnibras/view/setting-toko/index.php on line 7
+[18-Sep-2018 21:20:25 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[18-Oct-2018 12:57:59 UTC] PHP Notice:  Undefined index: HTTP_ACCEPT_ENCODING in /home/goetnik1/public_html/nibras.co.id/includes/config.php on line 2
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $kelascss follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 155
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 155
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 155
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 155
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $kelascss follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $readonly follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 210
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 210
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 210
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 210
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 227
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 227
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 227
+[09-May-2022 22:09:23 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 227
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $kelascss follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 118
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 155
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 155
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 155
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 155
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $kelascss follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $readonly follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 174
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 210
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 210
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 210
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 210
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $idobject follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 227
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $tabel follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 227
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldoption follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 227
+[09-May-2022 22:09:31 Asia/Jakarta] PHP Deprecated:  Required parameter $fieldisi follows optional parameter $id in /home/nibrasc01/public_html/grobogan/includes/FungsiUmum.php on line 227
